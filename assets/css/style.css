@@ -3067,12 +3067,17 @@ section.banner-section.style-three {
 ===================================================*/
 
 .call-do-action-area.style-two {
-    background: url(../images/resource/call-do-2.jpg);
-    height: 450px;
+    background: url(https://www.publicdomainpictures.net/pictures/130000/velka/yellow-background-1440627692qIZ.jpg);
+    height: 400px;
     background-repeat: no-repeat;
     background-position: center center;
 }
+.negrita{
+    font-weight: bold !important;
+    color: #000 !important;
+    font-size:  60px !important;
 
+}
 .single-video.style-three.text-center {
     transform: translateY(0);
     top: 20px;
@@ -3084,8 +3089,9 @@ section.banner-section.style-three {
 
 
 /*==================================================
- <-- Euildint Testimonial Style Two  Area Css-->
+ <--Euildint Testimonial Style Two  Area Css-->
 ===================================================*/
+
 
 .testimonial-area.style-two {
     background: #fff;
@@ -3322,6 +3328,8 @@ section.banner-section.style-three {
     font-size: 16px;
     font-weight: 500;
 }
+
+
 
 button.icons {
     border: 0;
